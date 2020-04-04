@@ -1,5 +1,5 @@
 # Template 1.0
-![Followers](https://img.shields.io/github/followers/DVasquez4155?style=social) ![License](https://img.shields.io/github/license/DVasquez4155/Template) ![Language](https://img.shields.io/github/languages/top/DVasquez4155/Template) ![Latest Commit](https://img.shields.io/github/last-commit/DVasquez4155/Template)
+![Followers](https://img.shields.io/github/followers/DVasquez4155?style=social) ![License](https://img.shields.io/github/license/DVasquez4155/HTML-Template) ![Language](https://img.shields.io/github/languages/top/DVasquez4155/HTML-Template) ![Latest Commit](https://img.shields.io/github/last-commit/DVasquez4155/HTML-Template)
 ## Description
 ![Image that shows the project](./assets/img/icon.png)
 
